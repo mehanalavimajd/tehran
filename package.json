@@ -1,0 +1,25 @@
+{
+    "name": "tehran",
+    "displayName": "Tehran",
+    "description": "Tehran vscode theme.",
+    "version": "0.01",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tehran",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tehran theme-color-theme.json"
+            }
+        ]
+    }
+}
