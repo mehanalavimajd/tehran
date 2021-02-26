@@ -1,2 +1,0 @@
-# Tehran
-Tehran vscode theme
