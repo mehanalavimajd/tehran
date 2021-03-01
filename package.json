@@ -4,14 +4,14 @@
     "description": "Tehran vscode theme.",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.53.0"
+        "vscode": "^1.30.0"
     },
     "categories": [
         "Themes"
     ],
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/mehanalavimajd/tehran"
     },
     "contributes": {
         "themes": [
@@ -21,5 +21,6 @@
                 "path": "./themes/tehran theme-color-theme.json"
             }
         ]
-    }
+    },
+    "publisher": "mehanalavimajd"
 }
