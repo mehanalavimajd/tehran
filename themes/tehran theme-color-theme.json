@@ -2,9 +2,9 @@
 	"name": "tehran theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#c2c2c2",
-		"activityBarBadge.background": "#a31aa3",
+		"editor.background": "#2f3538",
+		"editor.foreground": "#c9c1c1",
+		"activityBarBadge.background": "#e58ae5",
 		"sideBarTitle.foreground": "#c2c2c2"
 	},
 	"tokenColors": [
@@ -15,7 +15,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic underline",
+				"fontStyle": "italic",
 				"foreground": "#959ea0"
 			}
 		},
@@ -26,7 +26,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#40e2e2"
+				"foreground": "#84cfcf"
 			}
 		},
 		{
@@ -35,7 +35,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#d6d6d6"
 			}
 		},
 		{
@@ -45,7 +45,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#d80d2f"
+				"foreground": "#b91430"
 			}
 		},
 		{
