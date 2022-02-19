@@ -11,7 +11,7 @@ Tehran theme make your vscode happer! Simply install this theme with this way:
 
 ## Demo
 <p align="center">
-  <img src="./assets/tehran.jpg" alt="Screenshot" width=600>
+  <img src="./assets/tehran.png" alt="Screenshot" width=600>
 </p>
 
 <!-- ## Support
